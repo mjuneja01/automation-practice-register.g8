@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Register" verbose="1" >
+    <test name="TestPositiveAndNegativeScenario" >
+        <classes>
+            <class name="NegativeRegisterWhenCityIsMissing"/>
+            <class name="PositiveRegister"/>
+
+        </classes>
+    </test>
+</suite>
